@@ -12,5 +12,5 @@ Accessed with kaggle library and API
 # Notes
 This dataset didn't have countries available, but had cities, all within the US so that's what I used for the excersise
 
-
+There are multiple years for some companies since they can have different headquarters, in that sense i didn't take it into account for the analysis, I processed each company as one without considering different locations.
 
